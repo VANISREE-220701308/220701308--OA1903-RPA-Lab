@@ -1,14 +1,14 @@
 # 220701308--OA1903-RPA-Lab
 
-**🎓 Online Course Enrollment Automation – RPA Project
+****🎓 Online Course Enrollment Automation – RPA Project**
 
-🔗 Project Title: ONLINE COURSE ENROLLMENT AUTOMATION**
+**🔗 Project Title: ONLINE COURSE ENROLLMENT AUTOMATION**
+**
 
+🛠️** Technologies Used:** UiPath, RPA, MySQL, Student Information System (SIS), Learning Management System (LMS)
+👤 **Author:** Vanisree S.J (220701308)
 
-🛠️ Technologies Used: UiPath, RPA, MySQL, Student Information System (SIS), Learning Management System (LMS)
-👤 Author: Vanisree S.J (220701308)
-
-🎓 Guide: Ms. U. Farjana, M.Tech
+🎓** Guide:** Ms. U. Farjana, M.Tech
 
 📍 Department of Computer Science and Engineering, Rajalakshmi Engineering College
 
