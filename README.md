@@ -5,12 +5,14 @@
 **🔗 Project Title: ONLINE COURSE ENROLLMENT AUTOMATION**
 **
 
-🛠️** Technologies Used:** UiPath, RPA, MySQL, Student Information System (SIS), Learning Management System (LMS)
-👤 **Author:** Vanisree S.J (220701308)
+🛠️Technologies Used: UiPath, RPA, MySQL, Student Information System (SIS), Learning Management System (LMS)
 
-🎓** Guide:** Ms. U. Farjana, M.Tech
+👤Author           : Vanisree S.J (220701308)
 
-📍 Department of Computer Science and Engineering, Rajalakshmi Engineering College
+
+🎓Guide            : Ms. U. Farjana, M.Tech
+
+📍Department       : Computer Science and Engineering, Rajalakshmi Engineering College
 
 **📌 Project Overview**
 
@@ -68,13 +70,13 @@ Traditional course registration systems are:
 
 1.User Authentication Module – Role-based secure login for students/admins
 
-2.Course Management Module – Admin controls over course data
+2.Course Management Module  – Admin controls over course data
 
-3.Eligibility Check Module – Auto-validate student qualifications
+3.Eligibility Check Module  – Auto-validate student qualifications
 
-4.Enrollment Module – Auto-fill forms, allocate seats, manage waitlists
+4.Enrollment Module         – Auto-fill forms, allocate seats, manage waitlists
 
-5.Notification Module – Email/SMS alerts for enrollments and updates
+5.Notification Module       – Email/SMS alerts for enrollments and updates
 
 
 
@@ -89,11 +91,11 @@ Traditional course registration systems are:
 
 **💾 Software:**
 
-1.UiPath Studio – for bot development
+1.UiPath Studio      – for bot development
 
 2.MySQL / SQL Server – to manage student/course data
 
-3.SIS & LMS APIs – for third-party integration (if applicable)
+3.SIS & LMS APIs     – for third-party integration (if applicable)
 
 
 **🧪 Testing & Implementation**
